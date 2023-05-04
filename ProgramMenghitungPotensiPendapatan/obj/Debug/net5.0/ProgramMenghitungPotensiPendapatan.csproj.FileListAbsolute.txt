@@ -1,0 +1,16 @@
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.exe
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.deps.json
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.runtimeconfig.json
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.runtimeconfig.dev.json
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.dll
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\bin\Debug\net5.0\ProgramMenghitungPotensiPendapatan.pdb
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.csproj.AssemblyReference.cache
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.AssemblyInfoInputs.cache
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.AssemblyInfo.cs
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.csproj.CoreCompileInputs.cache
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.dll
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\refint\ProgramMenghitungPotensiPendapatan.dll
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.pdb
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ProgramMenghitungPotensiPendapatan.genruntimeconfig.cache
+C:\C-sharp\ProgramMenghitungPotensiPendapatan\obj\Debug\net5.0\ref\ProgramMenghitungPotensiPendapatan.dll

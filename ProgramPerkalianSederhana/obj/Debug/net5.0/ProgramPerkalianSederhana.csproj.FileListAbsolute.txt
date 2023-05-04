@@ -1,0 +1,16 @@
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.exe
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.deps.json
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.runtimeconfig.json
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.runtimeconfig.dev.json
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.dll
+C:\C-sharp\ProgramPerkalianSederhana\bin\Debug\net5.0\ProgramPerkalianSederhana.pdb
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.csproj.AssemblyReference.cache
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.AssemblyInfoInputs.cache
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.AssemblyInfo.cs
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.csproj.CoreCompileInputs.cache
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.dll
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\refint\ProgramPerkalianSederhana.dll
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.pdb
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ProgramPerkalianSederhana.genruntimeconfig.cache
+C:\C-sharp\ProgramPerkalianSederhana\obj\Debug\net5.0\ref\ProgramPerkalianSederhana.dll

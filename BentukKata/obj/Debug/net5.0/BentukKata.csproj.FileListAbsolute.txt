@@ -1,0 +1,16 @@
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.exe
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.deps.json
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.runtimeconfig.json
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.runtimeconfig.dev.json
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.dll
+C:\C-sharp\BentukKata\bin\Debug\net5.0\BentukKata.pdb
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.csproj.AssemblyReference.cache
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.AssemblyInfoInputs.cache
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.AssemblyInfo.cs
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.csproj.CoreCompileInputs.cache
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.dll
+C:\C-sharp\BentukKata\obj\Debug\net5.0\refint\BentukKata.dll
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.pdb
+C:\C-sharp\BentukKata\obj\Debug\net5.0\BentukKata.genruntimeconfig.cache
+C:\C-sharp\BentukKata\obj\Debug\net5.0\ref\BentukKata.dll
